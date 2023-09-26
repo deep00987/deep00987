@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep00987&label=Profile%20views&color=0e75b6&style=flat" alt="deep00987" /> </p>
 
-- 🌱 I’m currently learning **TypeScript, socket.io, React.js and microservies.**
+- 🌱 I’m currently learning **TypeScript, socket.io, React.js and microservices.**
 
 - 📫 How to reach me **mondaldeep2020@gmail.com**
 
