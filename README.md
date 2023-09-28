@@ -46,10 +46,10 @@
 <p align="left">
 
  <div align="left"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/dwip-shekhar-mondal-84420013b/"><img style="width: 40px; height: auto;" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/deep00987"><img style="width: 40px; height: auto;" src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/mondaldeep2000"><img style="width: 40px; height: auto;" src="https://img.icons8.com/?size=256&id=108650&format=png" ></a>
-	<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1wrkNJIaqazAbH-X-aw4jrbGRL1RIW-0Z/view?usp=sharing"><img style="width: 40px; height: auto;" src="https://img.icons8.com/?size=256&id=RuuX11wPsYIG&format=png" ></a>
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/dwip-shekhar-mondal-84420013b/"><img style="width: 60px; height: auto;" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/deep00987"><img style="width: 60px; height: auto;" src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/mondaldeep2000"><img style="width: 60px; height: auto;" src="https://img.icons8.com/?size=256&id=108650&format=png" ></a>
+	<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1wrkNJIaqazAbH-X-aw4jrbGRL1RIW-0Z/view?usp=sharing"><img style="width: 60px; height: auto;" src="https://img.icons8.com/?size=256&id=RuuX11wPsYIG&format=png" ></a>
 </div>
 
 </p>
