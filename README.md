@@ -1,11 +1,11 @@
-### Hi there 👋 I'm [Dwip!](https://github.com/deep00987/)
+### Hi there 👋 I'm Dwip!
 
 <img padding-left="15px" align="right" alt="GIF" width="200px" height="auto" src="https://github-production-user-asset-6210df.s3.amazonaws.com/24670719/271372312-c3b82f48-b273-4eb0-a699-0af7e0ce1699.gif" />
 
 
 
 
-#### I am a CS grad and I'm currently pursuing my Master's. I have a strong passion for coding, and my primary focus is on web and software development. Let's chat about all things web and tech!
+### I am a CS grad and I'm currently pursuing my Master's. I have a strong passion for coding, and my primary focus is on web and software development. Let's chat about all things web and tech!
 
 - 👨‍💻 I’m currently working on making full-stack web applications using MERN stack.
 - 📚 I'm currently Learning statistics and machine learning 😅
@@ -15,7 +15,7 @@
 - 📄 I’m currently looking for job opportunities in tech, this is my<a href="https://drive.google.com/file/d/1wrkNJIaqazAbH-X-aw4jrbGRL1RIW-0Z/view?usp=sharing" target="blank"> Resume</a>
 ---
 
-#### Languages I use
+### Languages I use
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -28,7 +28,7 @@
 ![MongoDB](https://img.shields.io/badge/express-gray?logo=mongoDB&logoColor=%2349c211)
 
 
-#### Some of the technologies I have worked with
+### Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
