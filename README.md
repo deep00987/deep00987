@@ -1,6 +1,9 @@
 ### Hi there 👋 I'm [Dwip!](https://github.com/deep00987/)
 
-<img padding-left="10px" align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img padding-left="10px" align="right" alt="GIF" height="160px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/24670719/271372312-c3b82f48-b273-4eb0-a699-0af7e0ce1699.gif" />
+
+
+
 
 ##### I am a CS grad and I'm currently pursuing my Master's. I have a strong passion for coding, and my primary focus is on web and software development. Let's chat about all things web and tech!
 
