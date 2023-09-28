@@ -9,7 +9,7 @@
 - 💪🏼 Future Goals: Learn more about microservices and design patterns - Never stop creating new ideas.
 - 💬 Ask me about **JavaScript & Node.js**
 - 📫 How to reach me **mondaldeep2020@gmail.com**
-- 📄 I’m currently looking for job opportunities in tech, this is my<a href="https://drive.google.com/file/d/1wrkNJIaqazAbH-X-aw4jrbGRL1RIW-0Z/view?usp=sharing" target="blank">Resume</a>
+- 📄 I’m currently looking for job opportunities in tech, this is my<a href="https://drive.google.com/file/d/1wrkNJIaqazAbH-X-aw4jrbGRL1RIW-0Z/view?usp=sharing" target="blank"> Resume</a>
 ---
 
 ##### Languages I use
@@ -48,8 +48,8 @@
  <div align="left"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/dwip-shekhar-mondal-84420013b/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/deep00987"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/mondaldeep2000"><img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-	<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1wrkNJIaqazAbH-X-aw4jrbGRL1RIW-0Z/view?usp=sharing"><img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+	<a style="margin-left: 10px; margin-top: 2px;" target="_blank" href="https://twitter.com/mondaldeep2000"><img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+	<a style="margin-left: 5px; margin-top: 2px;" target="_blank" href="https://drive.google.com/file/d/1wrkNJIaqazAbH-X-aw4jrbGRL1RIW-0Z/view?usp=sharing"><img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
 </div>
 
 </p>
