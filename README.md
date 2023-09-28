@@ -5,7 +5,7 @@
 
 
 
-#### I am a CS grad and I'm currently pursuing my Master's. I have a strong passion for coding, and my primary focus is on web and software development. Let's chat about all things web and tech!
+#### I am a CS grad and I'm currently pursuing my Master's. I have a strong passion for coding, and my primary focus is on web & software development. Let's chat about all things web and tech!
 
 - 👨‍💻 I’m currently working on making full-stack web applications using MERN stack.
 - 📚 I'm currently Learning statistics and machine learning 😅
